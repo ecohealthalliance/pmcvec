@@ -14,7 +14,11 @@ The workflow is in the `Makefile`.  Running `make` will
     
 Most parameters are set in the Makefile.  You can find documentation of the
 parameters in the [source file of GloVe](https://github.com/stanfordnlp/GloVe/tree/master/src).
-    
+
+---
+
+_This Docker thing not quiote working yet_
+
 A Dockerfile is provided to run  this in a small reproducible environment.  Run
 the dockerfile with the command
 
